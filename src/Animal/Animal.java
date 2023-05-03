@@ -1,5 +1,4 @@
 package Animal;
-
 public class Animal{
     private String name;
     private String color;
@@ -42,6 +41,5 @@ public class Animal{
         String s =" El animla "+this.getName()+" Dice: " ;
         return s;
     }
-
 
 }
